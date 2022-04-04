@@ -1,0 +1,31 @@
+h1{
+    color: blue;
+    font-family: monospace;
+    
+}
+body{
+    text-align: center;
+    background-color: rgb(237, 244, 245);
+    
+}
+button{
+    color: darkslateblue;
+    font-family: monospace;
+    
+    
+    
+}
+div{
+    color: rgba(7, 7, 228, 0.925);
+    
+    
+}
+section{
+    color: rgb(15, 15, 160);
+    
+    
+}
+p{
+    color: blue;
+    
+}
